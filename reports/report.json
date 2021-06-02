@@ -1,0 +1,172 @@
+[
+  {
+    "description": "Add to Cart Test Suite",
+    "elements": [
+      {
+        "id": "ScenarioAdd to Cart Test Suite;Add item to cart and verify if it's added",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Add item to cart and verify if it's added",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/nehamirpagar/Documents/ui_automation_framework/testcafe-ui-automation-framework/tests/addtocart-tests.js:1:0"
+            },
+            "name": "Add item to cart and verify if it's added",
+            "result": {
+              "duration": 30990,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Add item to cart and verify if it's added</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Add to Cart Test Suite",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "app": {
+        "name": "testcafe-ui-automation-framework",
+        "version": 1
+      },
+      "browser": {
+        "name": "chrome",
+        "version": "90.0.4430"
+      },
+      "device": "Mac OS X",
+      "platform": {
+        "name": "osx",
+        "version": "10.15.7"
+      }
+    },
+    "name": "Add to Cart Test Suite",
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@add"
+      },
+      {
+        "line": 0,
+        "name": "@cart"
+      },
+      {
+        "line": 0,
+        "name": "@suite"
+      },
+      {
+        "line": 0,
+        "name": "@item"
+      },
+      {
+        "line": 0,
+        "name": "@verify"
+      },
+      {
+        "line": 0,
+        "name": "@it's"
+      },
+      {
+        "line": 0,
+        "name": "@added"
+      }
+    ],
+    "uri": "/Users/nehamirpagar/Documents/ui_automation_framework/testcafe-ui-automation-framework/tests/addtocart-tests.js:1"
+  },
+  {
+    "description": "Login Suite",
+    "elements": [
+      {
+        "id": "ScenarioLogin Suite;Login with invalid credentials",
+        "keyword": "Scenario",
+        "line": 0,
+        "name": "Login with invalid credentials",
+        "skipped": false,
+        "sourceLine": "undefined",
+        "status": "passed",
+        "steps": [
+          {
+            "hidden": false,
+            "keyword": ">",
+            "match": {
+              "location": "/Users/nehamirpagar/Documents/ui_automation_framework/testcafe-ui-automation-framework/tests/login-tests.js:1:0"
+            },
+            "name": "Login with invalid credentials",
+            "result": {
+              "duration": 13021,
+              "status": "passed"
+            },
+            "tags": [],
+            "text": [
+              "<a href=\"#\">Login with invalid credentials</a>"
+            ]
+          }
+        ],
+        "tags": [],
+        "type": "scenario",
+        "uri": ""
+      }
+    ],
+    "id": "Login Suite",
+    "keyword": "Feature",
+    "line": 0,
+    "metadata": {
+      "app": {
+        "name": "testcafe-ui-automation-framework",
+        "version": 1
+      },
+      "browser": {
+        "name": "chrome",
+        "version": "90.0.4430"
+      },
+      "device": "Mac OS X",
+      "platform": {
+        "name": "osx",
+        "version": "10.15.7"
+      }
+    },
+    "name": "Login Suite",
+    "runInfo": {
+      "endTime": "2021-06-02T10:30:21.701Z",
+      "passed": 2,
+      "startTime": "2021-06-02T10:29:37.666Z",
+      "testCount": 2,
+      "userAgents": [
+        "Chrome 90.0.4430 / Mac OS X 10.15.7"
+      ],
+      "warnings": []
+    },
+    "skipped": false,
+    "tags": [
+      {
+        "line": 0,
+        "name": "@login"
+      },
+      {
+        "line": 0,
+        "name": "@suite"
+      },
+      {
+        "line": 0,
+        "name": "@invalid"
+      },
+      {
+        "line": 0,
+        "name": "@credentials"
+      }
+    ],
+    "uri": "/Users/nehamirpagar/Documents/ui_automation_framework/testcafe-ui-automation-framework/tests/login-tests.js:1"
+  }
+]

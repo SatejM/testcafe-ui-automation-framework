@@ -1,0 +1,25 @@
+{
+  "name": "testcafe-ui-automation-framework",
+  "version": "0.1.0",
+  "author": "Satej Mirpagar",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "exceljs": "^1.6.0",
+    "faker": "^4.1.0",
+    "testcafe": "^v1.1.2",
+    "testcafe-reporter-cucumber-json": "^4.0.0"
+  },
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^1.18.0"
+  },
+  "scripts": {
+    "tests-chrome-without-report": "testcafe chrome tests",
+    "tests-chrome-with-report": "testcafe chrome tests --reporter cucumber-json:reports/report.json --reporter-app-name='testcafe-ui-automation-framework' --reporter-app-version='1.0'",
+    "functional-tests-with-report": "testcafe chrome tests --fixture-meta functional=true --reporter cucumber-json:reports/report.json --reporter-app-name='testcafe-ui-automation-framework' --reporter-app-version='1.0'",
+    "tests-chrome-headless-without-report": "testcafe chrome:headless tests",
+    "report": "node utils/report-generator.js"
+   
+
+  }
+}
