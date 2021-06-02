@@ -21,7 +21,7 @@ E2E tests Framework written in [Testcafe](https://github.com/DevExpress/testcafe
 
 
 ## Report Example
-![Alt text](https://ibb.co/6y0HQnn)
+![Alt text](https://i.ibb.co/S6wtSss/Screen-Shot-2021-06-02-at-9-04-51-pm.png)
 
 ## Future Enhancements
 * Split test data based on test cases
