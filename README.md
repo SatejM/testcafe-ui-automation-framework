@@ -4,7 +4,7 @@ E2E tests Framework written in [Testcafe](https://github.com/DevExpress/testcafe
 - Language: Javascript
 
 ## Setup
-1. Clone `clone git@github.com:AhmedHamada93/testcafe-e2e-automation-framework.git`
+1. Clone `git clone https://github.com/SatejM/testcafe-ui-automation-framework.git`
 2. Install `npm install`
 
 ## Dependencies
