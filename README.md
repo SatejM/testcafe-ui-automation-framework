@@ -22,3 +22,8 @@ E2E tests Framework written in [Testcafe](https://github.com/DevExpress/testcafe
 
 ## Report Example
 ![Alt text](https://i.ibb.co/frLs0wx/Screen-Shot-2020-02-20-at-6-09-37-PM.png)
+
+#Future Enhancements
+* Split test data based on test cases
+* Add headless option for other browsers
+* Enhance framework with testcafe's userrole feature
