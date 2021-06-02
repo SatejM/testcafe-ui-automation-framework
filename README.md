@@ -17,7 +17,7 @@ E2E tests Framework written in [Testcafe](https://github.com/DevExpress/testcafe
 * Run all tests in chrome without report `npm run test-chrome-without-report`
 * Run all tests in chrome with report `npm run tests-chrome-with-report`
 * Run all tests in functional suite only `npm run functional-tests-with-report`
-* Run all tests in chrome in headless mode `npm run tests-chrome-headless-without-report`
+* Run all tests in chrome in headless mode(CI/CD) `npm run tests-chrome-headless-without-report`
 
 
 ## Report Example
