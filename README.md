@@ -1,4 +1,4 @@
-## Testcafe Example
+## Testcafe Details
 E2E tests Framework written in [Testcafe](https://github.com/DevExpress/testcafe).
 - Design Pattern: Page Object Model
 - Language: Javascript
