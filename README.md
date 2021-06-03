@@ -27,3 +27,4 @@ E2E tests Framework written in [Testcafe](https://github.com/DevExpress/testcafe
 * Split test data based on test cases
 * Add headless option for other browsers
 * Enhance framework with testcafe's userrole feature
+* Error handling at page level
